@@ -1,5 +1,5 @@
 ## Sobre
-Este é um projeto de um sistema de um jogo de xadrez feito em Java
+Este é um projeto de um sistema de jogo de xadrez feito em Java
 
 ## Motivação
 Aplicar os principais conceitos de Programação Orientada a Objetos em um exemplo prático
